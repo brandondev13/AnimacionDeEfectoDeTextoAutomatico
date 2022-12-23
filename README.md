@@ -1,1 +1,1 @@
-# AnimacionDeEfectoDeTextoAutomatico
+# Practica-EfectoTextoAutomatico
